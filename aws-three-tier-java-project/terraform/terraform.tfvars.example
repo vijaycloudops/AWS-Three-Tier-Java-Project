@@ -1,0 +1,12 @@
+aws_region          = "eu-west-1"
+project_name        = "three-tier-java"
+environment         = "dev"
+app_instance_type   = "t3.micro"
+db_instance_class   = "db.t3.micro"
+db_name             = "appdb"
+db_username         = "appadmin"
+allowed_http_cidr   = "0.0.0.0/0"
+
+# Replace with the public GitHub repository URL after pushing this project.
+application_repo_url = "https://github.com/YOUR_GITHUB_USERNAME/aws-three-tier-java-project.git"
+application_branch   = "main"
