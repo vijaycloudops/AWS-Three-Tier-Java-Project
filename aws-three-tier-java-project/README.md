@@ -1,8 +1,8 @@
 # AWS Three-Tier Java Application using Spring Boot and Terraform
 
-A beginner-friendly AWS portfolio project using a Java 17 Spring Boot application, Amazon EC2, Application Load Balancer, private Amazon RDS PostgreSQL, IAM roles, Secrets Manager, CloudWatch, S3, Terraform, and GitHub Actions.
+AWS portfolio project using a Java 17 Spring Boot application, Amazon EC2, Application Load Balancer, private Amazon RDS PostgreSQL, IAM roles, Secrets Manager, CloudWatch, S3, Terraform, and GitHub Actions.
 
-> **Learning project notice:** This is not production-ready. It uses HTTP for the demo ALB endpoint, one NAT Gateway to reduce cost, a single-AZ RDS instance, and a Terraform-managed database secret. Review security and cost notes before deployment.
+> **Learning project notice:** It uses HTTP for the demo ALB endpoint, one NAT Gateway to reduce cost, a single-AZ RDS instance, and a Terraform-managed database secret. Review security and cost notes before deployment.
 
 ## 1. What you will build
 
