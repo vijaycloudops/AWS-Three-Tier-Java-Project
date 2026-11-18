@@ -407,8 +407,4 @@ Check ALB target health, EC2 status, bootstrap and application logs, security gr
 
 Designed and deployed a Java Spring Boot application on AWS using Terraform. Provisioned VPC networking, public and private subnets, Application Load Balancer, EC2 Auto Scaling, private RDS PostgreSQL, IAM roles, Secrets Manager, S3 and CloudWatch. Implemented automated Java build and test workflows using GitHub Actions.
 
-Describe this as a hands-on portfolio project, not production experience unless you have actually operated it in production.
 
-## 19. GitHub repository description
-
-Built a Java Spring Boot application on AWS using Terraform, EC2 Auto Scaling, Application Load Balancer, private RDS PostgreSQL, VPC networking, IAM, Secrets Manager, CloudWatch, and GitHub Actions CI.
